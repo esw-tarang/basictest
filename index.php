@@ -1,4 +1,4 @@
-<?php include_once('inc/dbclass.php'); ?>
+<?php require_once('inc/dbclass.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
